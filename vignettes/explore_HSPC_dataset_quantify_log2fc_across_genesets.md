@@ -59,22 +59,22 @@
 
     ## $H3K4me1
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-1.png)
 
     ## 
     ## $H3K4me3
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-2.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-2.png)
 
     ## 
     ## $H3K27me3
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-3.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-3.png)
 
     ## 
     ## $H3K9me3
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-4.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-4.png)
 
     # Load gene annots --------------------------------------------------------
 
@@ -276,124 +276,124 @@
     ## [1] "Eryths"
     ## [1] 1057    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-5.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-5.png)
 
     ## [1] "Bcells"
     ## [1] 1141    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-6.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-6.png)
 
     ## [1] "NKs"
     ## [1] 1099    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-7.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-7.png)
 
     ## [1] "Granulocytes"
     ## [1] 1071    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-8.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-8.png)
 
     ## [1] "Basophils"
     ## [1] 175   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-9.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-9.png)
 
     ## [1] "pDCs"
     ## [1] 637   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-10.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-10.png)
 
     ## [1] "DCs"
     ## [1] 1134    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-11.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-11.png)
 
     ## [1] "HSPCs"
     ## [1] 1085    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-12.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-12.png)
 
     ## [1] "H3K4me3"
     ## [1] "Eryths"
     ## [1] 1057    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-13.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-13.png)
 
     ## [1] "Bcells"
     ## [1] 1141    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-14.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-14.png)
 
     ## [1] "NKs"
     ## [1] 1099    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-15.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-15.png)
 
     ## [1] "Granulocytes"
     ## [1] 1071    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-16.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-16.png)
 
     ## [1] "Basophils"
     ## [1] 175   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-17.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-17.png)
 
     ## [1] "pDCs"
     ## [1] 637   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-18.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-18.png)
 
     ## [1] "DCs"
     ## [1] 1134    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-19.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-19.png)
 
     ## [1] "HSPCs"
     ## [1] 1085    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-20.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-20.png)
 
     ## [1] "H3K27me3"
     ## [1] "Eryths"
     ## [1] 1057    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-21.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-21.png)
 
     ## [1] "Bcells"
     ## [1] 1141    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-22.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-22.png)
 
     ## [1] "NKs"
     ## [1] 1099    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-23.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-23.png)
 
     ## [1] "Granulocytes"
     ## [1] 1071    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-24.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-24.png)
 
     ## [1] "Basophils"
     ## [1] 175   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-25.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-25.png)
 
     ## [1] "pDCs"
     ## [1] 637   5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-26.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-26.png)
 
     ## [1] "DCs"
     ## [1] 1134    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-27.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-27.png)
 
     ## [1] "HSPCs"
     ## [1] 1085    5
 
-![](Sup_Fig_2_DE_analysis_relative_to_HSPCs_files/figure-markdown_strict/unnamed-chunk-1-28.png)
+![](explore_HSPC_dataset_quantify_log2fc_across_genesets/figure-markdown_strict/unnamed-chunk-1-28.png)
 
     if (save.plots){
       dev.off()
