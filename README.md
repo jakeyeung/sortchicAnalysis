@@ -1,5 +1,10 @@
 # R package containing processed data and analysis vignettes for sortChIC
 
+## Installation instructions
+
+Install R package using devtools.
+
+`devtools::install_github("jakeyeung/sortchicAnalysis", ref = "main")`
 
 ## Example pipeline for processing fastq files to generating count tables and running dimensionality reduction
 
