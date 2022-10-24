@@ -43,5 +43,11 @@ Example scripts are ordered from 1 to 6, which are run in ascending order. Singl
 
 - [Explore HSPC dataset and get quantifications for log2 fold change from HSPCs to mature cell fates](https://github.com/jakeyeung/sortchicAnalysis/blob/main/vignettes/explore_HSPC_dataset_quantify_log2fc_across_genesets.md)
 
+- [Explore dual labeling outputs and plot the relationships between heterochromatin and cell types](https://github.com/jakeyeung/sortchicAnalysis/blob/main/vignettes/show_dual_labeling_outputs.md)
+
+- [Visualize TF activities in single cells](https://github.com/jakeyeung/sortchicAnalysis/blob/main/vignettes/plot_TF_activities.md)
+
+- [Visualize Lin,Sca1,Kit levels on each epigenomic landscape](https://github.com/jakeyeung/sortchicAnalysis/blob/main/vignettes/plot_PCA_allmerged_LSK.md)
+
 
 
